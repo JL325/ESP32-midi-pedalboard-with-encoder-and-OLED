@@ -1,4 +1,4 @@
-# ESP32 MIDI Controller (OLED & Rotary Encoder)
+# ESP32 MIDI Controller (OLED & Rotary Encoder) for switching Helix Native effects via Reaper DAW
 
 This is an ESP32-based MIDI controller project featuring an OLED screen to display BPM and Preset information, adjustable via a rotary encoder. It also includes multiple buttons for triggering MIDI CC messages and a Tap Tempo function.
 This MIDI pedalboard will be used with the Reaper DAW and the Helix Native VST to switch electric guitar tones (snapshots & presets), includes BPM control (tap tempo/direct setup). I will update my demo video later.
