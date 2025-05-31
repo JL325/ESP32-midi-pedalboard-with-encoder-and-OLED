@@ -4,6 +4,7 @@ This is an ESP32-based MIDI controller project featuring an OLED screen to displ
 This MIDI pedalboard will be used with the Reaper DAW and the Helix Native VST to switch electric guitar tones (snapshots & presets), includes BPM control (tap tempo/direct setup). I will update my demo video later.
 ![image](https://github.com/user-attachments/assets/8a98148f-e535-4958-8c29-de750c6980bf)
 ![5DD8A519-B131-4BED-B63F-6E00A2BC3400](https://github.com/user-attachments/assets/0b60032a-0886-4dc4-8650-d23a8e851b20)
+![pin definition_0531](https://github.com/user-attachments/assets/54ad7d26-48b4-4f15-a497-b47d2d990160)
 ![33C69B30-7150-4691-89FA-017B33A18C91](https://github.com/user-attachments/assets/c33616a3-a082-4a7a-9b3b-42c542759f0e)
 
 
